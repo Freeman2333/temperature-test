@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  height: 100vh;
+}
+
+.app-holder {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
